@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/andreaaliaj/Desktop/2024 coding/UNSCRIPTED CODER/pydjango-react/.venv/bin/python3.11" "$0" "$@"
+'''exec' "/Users/andreaaliaj/Desktop/2024 coding/UNSCRIPTED CODER/pydjango-react/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
