@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 import AddItem from './components/AddIitem';
 import ItemList from './components/ItemList';
+import AgeCalculator from './components/Agecalculator';
 
 const MyComponent = () => {
   const [data, setData] = useState(null);
@@ -48,6 +49,7 @@ function App() {
       <AddItem />
       <ItemList />
       <MyComponent />
+      <AgeCalculator/>
     </div>
   );
 }
